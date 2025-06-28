@@ -27,4 +27,5 @@ Durante o desenvolvimento desta landing page, pratiquei e aprendi:
 ---
 
 ## 🖼️ Preview
+![Preview da Landing Page](assets/images/preview.png)
 
